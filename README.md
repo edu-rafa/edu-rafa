@@ -1,5 +1,5 @@
 <html>
-  <h1 align="center" id='title'> Hi, I'm Rafael Eduardo, from Brazil! 🇧🇷 </h1>
+  <h1 align="center" id='title'> Hello! I'm Rafael Eduardo, from Brazil! 🇧🇷 </h1>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/rafael-eduardo-895195165/">
