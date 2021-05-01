@@ -16,14 +16,11 @@
   
   <h2> Languages and Tools:</h2>
   <p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"/></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/></code>
-   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"/></code>
-  </p>
-  <br />
-  <p>
-  <code><img width="5%" src=https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg></code>
-  <code><img width="10%" src=https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg></code>
-  <code><img width="10%" src=https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"/></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"/></code>
+    <code><img width="10%" src=https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg></code>
+    <code><img width="10%" src=https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg></code>
+    <code><img width="10%" src=https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg></code>
   </p>  
 </html>
