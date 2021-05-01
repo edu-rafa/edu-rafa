@@ -14,8 +14,6 @@
     <li>📫 How to reach me: rafaeleduardo_silva@hotmail.com</li>
   </ul>
   
-  <hr/>
-  
   <h2> Languages and Tools:</h2>
   <p>
     <img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"/>
@@ -27,11 +25,5 @@
     <img width="5%" src=https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg>
     <img width="10%" src=https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg>
     <img width="10%" src=https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg>
-  </p>
-  <br />
-  
-  <hr/>
-  
-
-
+  </p>  
 </html>
