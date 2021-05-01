@@ -1,5 +1,37 @@
-- 👋 Olá, Eu sou @edu-rafa
-- 👀 Tenho muitos interesses por tecnologia, e resoluções de problemas...     
-- 📚 Atualmente sou Desenvolvedor PHP que da uma olhada por cima do muro em outras linguagens como java, javascript, python...
-- 💞️ Estou sempre a procurar de colaraborar e aprender com a comunidade.
-- 📫 Caso precise entrar em contato, manda um email 😁✌
+<html>
+  <h1 align="center" id='title'> Hi, I'm Rafael Eduardo, from Brazil! 🇧🇷 </h1>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/rafael-eduardo-895195165/">
+      <img width="100px" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
+    </a>
+  </p>
+  
+  <h2> About me: </h2>
+  <ul>
+    <li> 💻 PHP Developer.</li>
+    <li> 📚 I'm love learning new technologies, I'm currently learning Java.</li>
+    <li>📫 How to reach me: rafaeleduardo_silva@hotmail.com</li>
+  </ul>
+  
+  <hr/>
+  
+  <h2> Languages and Tools:</h2>
+  <p>
+    <img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"/>
+    <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/>
+    <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"/>
+  </p>
+  <br />
+  <p>
+    <img width="5%" src=https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg>
+    <img width="10%" src=https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg>
+    <img width="10%" src=https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg>
+  </p>
+  <br />
+  
+  <hr/>
+  
+
+
+</html>
